@@ -1,0 +1,2 @@
+1. https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction
+2. https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
